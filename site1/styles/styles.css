@@ -1,0 +1,31 @@
+h2{
+    text-align: center;
+    padding: 80px;
+    font-family:inherit;
+}
+
+form{
+    text-align: center;
+    
+}
+
+input{
+    padding: 10px ;
+    margin: 10px 0;
+    width:300px;
+    border-radius:15px;
+    font-family:inherit;
+    font-size: inherit;
+}
+
+button{
+    padding: 10px;
+    margin: 10px 0;
+    cursor: pointer;
+    width: 325px;
+    border-radius:15px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+    background-color: rgb(77, 99, 224);
+    color: #fff;
+}
+
